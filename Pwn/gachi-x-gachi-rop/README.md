@@ -12,7 +12,7 @@ SATOKIが亡くなっても、みんなの心にlibcアドレスは刻まれて�
 
 ## 作問にあたって
 [SECCON Beginners CTF 2024のgachi-rop](https://github.com/satoki/ctf4b_2024_satoki_writeups/tree/main/pwnable/gachi-rop)の強化版です。  
-libcアドレスのリークが無くなっていますが、SATOKIは当分のあいだ亡くなる予定はありません。  
+libcアドレスのリークは無くなっていますが、SATOKIは当分の間は亡くなる予定はありません。  
 
 ## 解法
 Try Harder!  
