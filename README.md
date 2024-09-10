@@ -6,18 +6,18 @@ SatokiCTF 運営者の [Satoki](https://twitter.com/satoki00) と言います。
 私が作った問題は以下になります(これ以外の問題のゴーストライター？が誰か当ててみてください)。  
 
 - Misc
-  - [nadesicall](Misc/nadesicall) [0 Solves]  
-  - [python8](Misc/python8) [0 Solves]  
+  - [nadesicall](Misc/nadesicall) [7 Solves]  
+  - [python8](Misc/python8) [8 Solves]  
 - Pwn
-  - [gachi-x-gachi-rop](Pwn/gachi-x-gachi-rop) [0 Solves]  
+  - [gachi-x-gachi-rop](Pwn/gachi-x-gachi-rop) [4 Solves]  
 - Rev
   - [buibui-satoki](Rev/buibui-satoki) [0 Solves]  
 - Web
-  - [Guesscheme](Web/Guesscheme) [0 Solves]  
-  - [MiniBank](Web/MiniBank) [0 Solves]  
-  - [OSQLinj](Web/OSQLinj) [0 Solves]  
+  - [Guesscheme](Web/Guesscheme) [1 Solves]  
+  - [MiniBank](Web/MiniBank) [27 Solves]  
+  - [OSQLinj](Web/OSQLinj) [8 Solves]  
 - Welcome
-  - [Welcome](Welcome/Welcome) [0 Solves]  
+  - [Welcome](Welcome/Welcome) [94 Solves]  
 
 全完してSatokiを倒すRaid Jeopardy形式の競技としたため、少し難しめに作っています。  
 運営と他のユーザの妨害を除く、すべての行動を許可するルールとしました。  
