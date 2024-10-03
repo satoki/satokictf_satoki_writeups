@@ -1,5 +1,5 @@
 # satokictf_satoki_writeups
-😈 SatokiCTF Finals Satoki問 Writeups
+😈 SatokiCTF Satoki問 Writeups
 
 ## はじめに
 SatokiCTF 運営者の [Satoki](https://twitter.com/satoki00) と言います。  
